@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="1.0.2" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Sparkle Test App Changelog</title>
+<link>https://www.veggieswala.com/dm_appcast.xml</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
+<item>
+    <title>Version 1.0.2</title>
+    <sparkle:version>1.0.2</sparkle:version>
+    <pubDate>Mon, 26 Jun 2014 11:30:00 +0500</pubDate>
+    <link>https://www.veggieswala.com/</link>   
+    <enclosure url="https://www.veggieswala.com/dm_app.zip"
+                sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="
+                length="1623481"
+                type="application/octet-stream" />
+</item>
+</channel>
+</rss>
+
+
